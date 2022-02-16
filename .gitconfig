@@ -38,7 +38,7 @@
         default = simple
         followTags = true
 [init]
-	    defaultBranch = master
+		defaultBranch = main
 [user]
         email = matheus_polillo@yahoo.com
         name = Matheus, M. P.
